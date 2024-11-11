@@ -13,4 +13,9 @@ News
 
 [2024.11]My Homepage is online！
 
+My friends
+======
+
+[Zhuoyu Chen](https://nekko.moe/) 
+[Bohui Jia](https://bensonjia.github.io/)
 
