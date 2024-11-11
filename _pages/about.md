@@ -16,7 +16,7 @@ News
 My friends
 ======
 
-[Zhuoyu Chen](https://nekko.moe/) 
+[Zhuoyu Chen](https://nekko.moe/) （B.S. in Tsinghua University）
 
-[Bohui Jia](https://bensonjia.github.io/)
+[Bohui Jia](https://bensonjia.github.io/) (B.E. in University of Birmingham and Harbin Institute of Technology)
 
