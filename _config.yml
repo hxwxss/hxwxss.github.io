@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Welcome to Yuxuan's homepage!"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Yuxuan"
 description              : &description "personal description"
 url                      : https://hxwxss.github.io/yxcheng.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
