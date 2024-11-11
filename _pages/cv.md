@@ -19,11 +19,11 @@ xxxx
 
 Skills
 ======
-* Skill 1 Latax
-* Skill 2 Programming
-  * Sub-skill 2.1 C/C++
-  * Sub-skill 2.2 Python,Pytorch
-  * Sub-skill 2.3 Matlab
+* Latex
+* Programming
+  * C/C++
+  * Python,Pytorch
+  * Matlab
 
 Publications
 ======
