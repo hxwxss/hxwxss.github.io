@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 permalink:
 excerpt: 'This paper is about fixing template issue #693.'
-date: 2024-6
+date: 2024.6
 venue: 'PRCV'
 ---
 
