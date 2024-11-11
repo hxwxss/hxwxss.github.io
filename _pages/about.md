@@ -8,14 +8,8 @@ redirect_from:
 ---
 I am a senior student majoring in automation at the [College of Engineering](https://cet.hzau.edu.cn/), [Huazhong Agricultural University](https://www.hzau.edu.cn/). My research interests focus on Computer Vision, specifically open-world vision and multi-modal learning.
 
-
-
-
-
-
-# News~
-
-# ======
+News
+======
 
 [2024.11]My Homepage is online！
 
