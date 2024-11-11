@@ -16,6 +16,7 @@ Education
 Work experience
 ======
 xxxx
+
 Skills
 ======
 * Skill 1 Latax
