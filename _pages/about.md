@@ -15,6 +15,7 @@ I am a senior student majoring in automation at the [College of Engineering](htt
 News
 ======
 [2025.5]One paper, " Rethinking Graph Domain Adaptation: A Spectral Contrastive Perspective " has been accepted to ECML-PKDD 2025 Research track.
+
 [2025.4]One paper, “CLIP-AdaM: Adapting Multi-view CLIP for Open-set 3D Object Retrieval” has been accepted to SIGIR 2025 Full Papers track.
 
 [2024.11]My Homepage is online！
