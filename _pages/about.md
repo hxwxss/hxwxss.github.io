@@ -14,6 +14,8 @@ My research interests lie in **Open World Vision** and **Multi-modal learning**,
 
 News
 ======
+[2025.6] Successfully obtained my **Bachelor of Engineering in Automation** from HZAU. Grateful to all my mentors, professors, and collaborators for their invaluable guidance and support throughout this journey.
+
 [2025.5] One paper, " Rethinking Graph Domain Adaptation: A Spectral Contrastive Perspective" has been accepted to ECML-PKDD (CCF-B) 2025 Research track.
 
 [2025.4] One paper, " CLIP-AdaM: Adapting Multi-view CLIP for Open-set 3D Object Retrieval" has been accepted to SIGIR 2025 (CCF-A) Full Papers track.
