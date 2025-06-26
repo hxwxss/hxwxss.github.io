@@ -20,7 +20,9 @@ News
 
 [2024.11] My Homepage is online！
 
-[2024.6] One paper, "SimpleFusion: A Simple Fusion Framework for Infrared and Visible Images" has been accepted to PRCV 2024 (CCF-C) main conference.
+[2024.7] One paper, "Robust Detection of Cracked Eggs Using a Multi-Domain Training Method for Practical Egg Production" has been accepted to Foods (JCRQ1).
+
+[2024.6] One paper, "SimpleFusion: A Simple Fusion Framework for Infrared and Visible Images" has been accepted to PRCV 2024 (CCF-C) Main Conference.
 
 
 
