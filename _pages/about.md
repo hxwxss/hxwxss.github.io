@@ -6,11 +6,14 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I hold a Bachelor of Engineering in Automation from the [College of Engineering](https://cet.hzau.edu.cn/), [Huazhong Agricultural University](https://www.hzau.edu.cn/)
+I hold a Bachelor of Engineering in Automation from the [College of Engineering](https://cet.hzau.edu.cn/), [Huazhong Agricultural University](https://www.hzau.edu.cn/).
 
-My research interests lie in **Open World Vision** and **Multi-modal learning**, with a current focus on exploring **spatial reasoning capabilities in MLLMs**. During my gap year, I am actively seeking **research collaborations and opportunities** to further investigate these areas.
+My research interests lie in **Open World Vision** and **Multi-modal Learning**. I am actively seeking **research collaborations and opportunities** to investigate these areas further.
 
-If you are interested in my research or cooperating with me, please don't hesitate to contact me by email or WeChat (Yuxuan_CHENG02).
+If you are interested in my research or would like to cooperate with me, please don't hesitate to contact me via email or WeChat (Yuxuan_CHENG02).  
+
+**Starting this September, I will pursue a Ph.D. in Computer and Information Engineering at The Chinese University of Hong Kong, Shenzhen and the Shenzhen Loop Area Institute, under the supervision of Prof. Xiaoguang Han.**
+
 
 
 News
