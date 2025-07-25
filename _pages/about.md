@@ -12,7 +12,7 @@ My research interests lie in **Open World Vision** and **Multi-modal Learning**.
 
 If you are interested in my research or would like to cooperate with me, please don't hesitate to contact me via email or WeChat (Yuxuan_CHENG02).  
 
-**Starting this September, I will pursue a Ph.D. in Computer and Information Engineering at The Chinese University of Hong Kong, Shenzhen and the Shenzhen Loop Area Institute, under the supervision of Prof. Xiaoguang Han.**
+**Starting this September, I will pursue a Ph.D. in Computer and Information Engineering at The Chinese University of Hong Kong, Shenzhen and the Shenzhen Loop Area Institute.**
 
 
 
