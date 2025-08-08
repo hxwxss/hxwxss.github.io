@@ -7,7 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-## 👋 About Me
 
 I am an incoming **Ph.D. student in Computer and Information Engineering** at the **Chinese University of Hong Kong, Shenzhen**, jointly supported by the **Shenzhen Loop Area Institute**(SLAI).
 
