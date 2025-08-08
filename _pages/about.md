@@ -1,34 +1,57 @@
 ---
 permalink: /
-title: "About me"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-I hold a Bachelor of Engineering in Automation from the [College of Engineering](https://cet.hzau.edu.cn/), [Huazhong Agricultural University](https://www.hzau.edu.cn/).
 
-My research interests lie in **Open World Vision** and **Multi-modal Learning**. I am actively seeking **research collaborations and opportunities** to investigate these areas further.
+## 👋 About Me
 
-If you are interested in my research or would like to cooperate with me, please don't hesitate to contact me via email or WeChat (Yuxuan_CHENG02).  
+I am a first-year **Ph.D. student in Computer and Information Engineering** at the **Chinese University of Hong Kong, Shenzhen**, jointly supported by the **Shenzhen Loop Area Institute**(SLAI).
 
-**Starting this September, I will pursue a Ph.D. in Computer and Information Engineering at The Chinese University of Hong Kong, Shenzhen and the Shenzhen Loop Area Institute.**
+I earned my **Bachelor of Engineering in Automation** from the [College of Engineering](https://cet.hzau.edu.cn/) at [Huazhong Agricultural University (HZAU)](https://www.hzau.edu.cn/) in 2025.
 
+My research interests focus on **Open-World Vision** and **Multimodal Learning**, and I am actively seeking collaborations and opportunities to explore these topics further.
 
-
-News
-======
-[2025.6] Successfully obtained my **Bachelor of Engineering in Automation** from HZAU. Grateful to all my mentors, professors, and collaborators for their invaluable guidance and support throughout this journey.
-
-[2025.5] One paper, " Rethinking Graph Domain Adaptation: A Spectral Contrastive Perspective" has been accepted to ECML-PKDD (CCF-B) 2025 Research track.
-
-[2025.4] One paper, " CLIP-AdaM: Adapting Multi-view CLIP for Open-set 3D Object Retrieval" has been accepted to SIGIR 2025 (CCF-A) Full Papers track.
-
-[2024.11] My Homepage is online！
-
-[2024.7] One paper, "Robust Detection of Cracked Eggs Using a Multi-Domain Training Method for Practical Egg Production" has been accepted to Foods (JCRQ1).
-
-[2024.6] One paper, "SimpleFusion: A Simple Fusion Framework for Infrared and Visible Images" has been accepted to PRCV 2024 (CCF-C) Main Conference.
+Feel free to reach out via **email** or **WeChat (Yuxuan_CHENG02)** if you're interested in collaboration or would like to discuss research!
 
 
+---
 
+## 🗞 News
+
+### 2025
+- 📌 **[Jun]** Graduated with a **B.E. in Automation** from HZAU.  
+  Grateful to all my mentors, professors, and collaborators for their invaluable guidance and support throughout this journey.
+- 📄 **[May]** *"Rethinking Graph Domain Adaptation: A Spectral Contrastive Perspective"* accepted to **ECML-PKDD 2025 (CCF-B)**.
+- 📄 **[Apr]** *"CLIP-AdaM: Adapting Multi-view CLIP for Open-set 3D Object Retrieval"* accepted to **SIGIR 2025 (CCF-A)**.
+
+### 2024
+- 🌐 **[Nov]** My homepage is online!
+- 📄 **[Jul]** *"Robust Detection of Cracked Eggs Using a Multi-Domain Training Method for Practical Egg Production"* accepted to *Foods (JCR Q1)*.
+- 📄 **[Jun]** *"SimpleFusion: A Simple Fusion Framework for Infrared and Visible Images"* accepted to **PRCV 2024 (CCF-C)**.
+
+---
+
+## 🎓 Education
+
+- **Ph.D. student in Computer and Information Engineering**  
+  The Chinese University of Hong Kong, Shenzhen && Shenzhen Loop Area Institute *(2025 – )*
+
+- **B.E. in Automation**  
+  Huazhong Agricultural University *(2021 – 2025)*
+
+---
+
+## 📝 Reviewer Service
+
+- ICME'25, IJCNN'25, AAAI'26
+
+---
+
+## 📫 Contact
+
+- Email: hanxuanwxss at gmail dot com
+- WeChat: **Yuxuan_CHENG02**
