@@ -30,7 +30,7 @@ Feel free to reach out via **email** or **WeChat (Yuxuan_CHENG02)** if you're in
 
 ### 2024
 - 🌐 **[Nov]** My homepage is online!
-- 📄 **[Jul]** *"Robust Detection of Cracked Eggs Using a Multi-Domain Training Method for Practical Egg Production"* accepted to *Foods (JCR Q1)*.
+- 📄 **[Jul]** *"Robust Detection of Cracked Eggs Using a Multi-Domain Training Method for Practical Egg Production"* accepted to **Foods (JCR Q1)**.
 - 📄 **[Jun]** *"SimpleFusion: A Simple Fusion Framework for Infrared and Visible Images"* accepted to **PRCV 2024 (CCF-C)**.
 
 ---
