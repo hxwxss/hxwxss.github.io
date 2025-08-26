@@ -37,7 +37,7 @@ Feel free to reach out via **email** or **WeChat (Yuxuan_CHENG02)** if you're in
 ## 🎓 Education
 
 - **Ph.D. student in Computer and Information Engineering**  
-  The Chinese University of Hong Kong, Shenzhen && Shenzhen Loop Area Institute *(2025 – )*
+  The Chinese University of Hong Kong, Shenzhen *(2025 – )*
 
 - **B.E. in Automation**  
   Huazhong Agricultural University *(2021 – 2025)*
