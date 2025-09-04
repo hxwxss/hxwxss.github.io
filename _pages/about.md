@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-I am a **Ph.D. student in Computer and Information Engineering** at the **Chinese University of Hong Kong, Shenzhen**, jointly supported by the **Shenzhen Loop Area Institute**(SLAI).
+I am a **Ph.D. student in Computer and Information Engineering** at the **Chinese University of Hong Kong, Shenzhen**.
 
 I earned my **Bachelor of Engineering in Automation** from the [College of Engineering](https://cet.hzau.edu.cn/) at [Huazhong Agricultural University (HZAU)](https://www.hzau.edu.cn/) in 2025.
 
