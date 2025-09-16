@@ -12,7 +12,7 @@ I am a **Ph.D. student in Computer and Information Engineering** at the **Chines
 
 I earned my **Bachelor of Engineering in Automation** from the [College of Engineering](https://cet.hzau.edu.cn/) at [Huazhong Agricultural University (HZAU)](https://www.hzau.edu.cn/) in 2025.
 
-My research interests focus on **Open-World Vision** and **Multimodal Learning**, and I am actively seeking collaborations and opportunities to explore these topics further.
+Building on my past work in Open-World Vision and Multimodal Learning, I now turn to **World Models for Physics & Space**; let’s connect if you’re interested.
 
 Feel free to reach out via **email** or **WeChat (Yuxuan_CHENG02)** if you're interested in collaboration or would like to discuss research!
 
