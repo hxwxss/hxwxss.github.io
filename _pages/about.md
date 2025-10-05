@@ -44,7 +44,7 @@ Feel free to reach out via **email** or **WeChat (Yuxuan_CHENG02)** if you're in
 
 ## 📝 Reviewer Service
 
-- ICME'25, IJCNN'25, AAAI'26
+- ICME'25, IJCNN'25, AAAI'26, IEEE TMC
 
 ---
 
