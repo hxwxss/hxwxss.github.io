@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-I'm Yuxuan Cheng, a **Ph.D. student in Computer and Information Engineering** at the **Chinese University of Hong Kong, Shenzhen**, under the supervision of [Xiaoguang Han](https://gaplab.cuhk.edu.cn/). Prior to this, I got my **Bachelor of Engineering in Automation** from the [College of Engineering](https://cet.hzau.edu.cn/) at [Huazhong Agricultural University (HZAU)](https://www.hzau.edu.cn/) in 2025.
+I'm Yuxuan Cheng, a **Ph.D. student in Computer and Information Engineering** at the **Chinese University of Hong Kong, Shenzhen**. Prior to this, I got my **Bachelor of Engineering in Automation** from the [College of Engineering](https://cet.hzau.edu.cn/) at [Huazhong Agricultural University (HZAU)](https://www.hzau.edu.cn/) in 2025.
 
 Building on my past work in Open-World Vision and Multimodal Learning, I now turn to **World Models for Physics & Space**; let’s connect if you’re interested.
 
