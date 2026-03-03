@@ -19,16 +19,18 @@ Feel free to reach out via **email** or **WeChat (Yuxuan_CHENG02)** if you're in
 
 ## 🗞 News
 
+### 2026
+- 📄 **[Mar 2026]** Our paper *“PhysNote: Self-Knowledge Notes for Evolvable Physical Reasoning in Vision-Language Models”* was accepted at the **ICLR 2026 Workshop on Efficient Spatial Reasoning**.
 ### 2025
 - 📌 **[Jun]** Graduated with a **B.E. in Automation** from HZAU.  
   Grateful to all my mentors, professors, and collaborators for their invaluable guidance and support throughout this journey.
-- 📄 **[May]** *"Rethinking Graph Domain Adaptation: A Spectral Contrastive Perspective"* accepted to **ECML-PKDD 2025 (CCF-B)**.
-- 📄 **[Apr]** *"CLIP-AdaM: Adapting Multi-view CLIP for Open-set 3D Object Retrieval"* accepted to **SIGIR 2025 (CCF-A)**.
+- 📄 **[May]** Our paper *"Rethinking Graph Domain Adaptation: A Spectral Contrastive Perspective"* was accepted at **ECML-PKDD 2025 (CCF-B)**.
+- 📄 **[Apr]** Our paper *"CLIP-AdaM: Adapting Multi-view CLIP for Open-set 3D Object Retrieval"* was accepted at **SIGIR 2025 (CCF-A)**.
 
 ### 2024
 - 🌐 **[Nov]** My homepage is online!
-- 📄 **[Jul]** *"Robust Detection of Cracked Eggs Using a Multi-Domain Training Method for Practical Egg Production"* accepted to **Foods (JCR Q1)**.
-- 📄 **[Jun]** *"SimpleFusion: A Simple Fusion Framework for Infrared and Visible Images"* accepted to **PRCV 2024 (CCF-C)**.
+- 📄 **[Jul]** Our paper *"Robust Detection of Cracked Eggs Using a Multi-Domain Training Method for Practical Egg Production"* was accepted at **Foods (JCR Q1)**.
+- 📄 **[Jun]** Our paper *"SimpleFusion: A Simple Fusion Framework for Infrared and Visible Images"* was accepted at **PRCV 2024 (CCF-C)**.
 
 ---
 
@@ -44,7 +46,7 @@ Feel free to reach out via **email** or **WeChat (Yuxuan_CHENG02)** if you're in
 
 ## 📝 Reviewer Service
 
-- ICME'25 '26, IJCNN'25, AAAI'26, IEEE TMC, Food Control
+- ICME'25 '26, IJCNN'25, AAAI'26, IEEE TMC, Food Control, IEEE RAL
 
 ---
 
