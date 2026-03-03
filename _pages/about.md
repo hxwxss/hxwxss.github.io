@@ -21,6 +21,7 @@ Feel free to reach out via **email** or **WeChat (Yuxuan_CHENG02)** if you're in
 
 ### 2026
 - 📄 **[Mar 2026]** Our paper *“PhysNote: Self-Knowledge Notes for Evolvable Physical Reasoning in Vision-Language Models”* was accepted at the **ICLR 2026 Workshop on Efficient Spatial Reasoning**.
+
 ### 2025
 - 📌 **[Jun]** Graduated with a **B.E. in Automation** from HZAU.  
   Grateful to all my mentors, professors, and collaborators for their invaluable guidance and support throughout this journey.
